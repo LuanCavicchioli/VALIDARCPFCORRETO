@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ValidarCPF\ValidarCPF\bin\Debug\ValidarCPF.exe.config
+C:\Users\User\source\repos\ValidarCPF\ValidarCPF\bin\Debug\ValidarCPF.exe
+C:\Users\User\source\repos\ValidarCPF\ValidarCPF\bin\Debug\ValidarCPF.pdb
+C:\Users\User\source\repos\ValidarCPF\ValidarCPF\obj\Debug\ValidarCPF.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ValidarCPF\ValidarCPF\obj\Debug\ValidarCPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ValidarCPF\ValidarCPF\obj\Debug\ValidarCPF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ValidarCPF\ValidarCPF\obj\Debug\ValidarCPF.exe
+C:\Users\User\source\repos\ValidarCPF\ValidarCPF\obj\Debug\ValidarCPF.pdb
