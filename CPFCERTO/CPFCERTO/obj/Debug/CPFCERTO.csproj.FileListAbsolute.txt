@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\CPFCERTO\CPFCERTO\bin\Debug\CPFCERTO.exe.config
+C:\Users\User\source\repos\CPFCERTO\CPFCERTO\bin\Debug\CPFCERTO.exe
+C:\Users\User\source\repos\CPFCERTO\CPFCERTO\bin\Debug\CPFCERTO.pdb
+C:\Users\User\source\repos\CPFCERTO\CPFCERTO\obj\Debug\CPFCERTO.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CPFCERTO\CPFCERTO\obj\Debug\CPFCERTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CPFCERTO\CPFCERTO\obj\Debug\CPFCERTO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CPFCERTO\CPFCERTO\obj\Debug\CPFCERTO.exe
+C:\Users\User\source\repos\CPFCERTO\CPFCERTO\obj\Debug\CPFCERTO.pdb
